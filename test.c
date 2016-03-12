@@ -9,6 +9,12 @@
 
 int main(void)
 {
+	int m = 5;
+	int n = 6;
+	int sum = 0;
 
+	sum = m + n;
+
+	printf("This count is %d" ， sum);
 	return 0;
 }
